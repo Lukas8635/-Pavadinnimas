@@ -315,9 +315,13 @@ body{
         display: inline-block;
         // margin-left:20%;
         // margin-right: 20px
+     
     }   
     
-
+    .kazkas{
+        display:block;
+        width: 33%;
+    }    
 
     .iconname{
         box-sizing: border-box;
@@ -335,7 +339,7 @@ body{
      .greyline{
          width: 50px;
          font-size: 2px;
-         color: ;
+         color: grey;
      }   
 
 
